@@ -23,7 +23,7 @@
 
 Translator turned developer. I studied Translation at Ionian University in Corfu before a full-stack bootcamp at Athens University of Economics and Business pulled me into software engineering. Full-stack with a backend lean — Node.js and Express, currently working with Java and Spring Boot. 
 
-🔭 **Currently building:** [a vegan finder project ↗]([https://github.com/anastDev/library-app](https://github.com/anastDev/vegan-finder)) — Location-aware vegan restaurant finder with AI-powered menu filtering via Gemini API. Built with Java, Spring Boot, React, and TypeScript.
+🔭 **Currently building:** [a vegan finder project ↗](https://github.com/anastDev/vegan-finder) — Location-aware vegan restaurant finder with AI-powered menu filtering via Gemini API. Built with Java, Spring Boot, React, and TypeScript.
 
 ⚡ **Fun fact:** my parents got so tired of me asking "why does this work like this?" that they bought me a book literally called *The Book for Whys*.
 
